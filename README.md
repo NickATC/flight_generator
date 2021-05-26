@@ -14,7 +14,9 @@ I hope you find it useful…and practice until you can navigate with no errors.
 
 ## What this program is going to do?
 This program will suggest a flight for you based on your selected options.
+
 Once the flight is suggested, it will give you very basic airport information like ICAO codes, runways available, runway length, course and distance and EET to your destination, and some other info.
+
 All suggested flights will be in Colombia.
 
 ## Getting Started
@@ -35,7 +37,6 @@ You should be ready within seconds!
 
 ### Things to fix
 The DB queries can be improved.  They work perfectly, but can be written in a better way.
-... No more fixes will be made.  I have decided to move to C#, and the lessons learned with these "small" projects have helped me a lot.
 
 ## Authors
 
