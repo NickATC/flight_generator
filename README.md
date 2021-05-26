@@ -5,8 +5,12 @@ A program that generates flights that comply with specific characteristics based
 *Version 1.3   May 2020*
 
 Sometimes my students asked me for flights to practice in the simulator with certain requirements (for example: airports with arc on departure or arrival, with ILS approach, or airports with certain difficulty), and I ended up suggesting the same flights over and over again…so I decided to write a program where my students could select the options and based on them my program would suggest flights.
+
 That’s how Flight Gen!© was born. Several other options were added, for example suggestions based on the time you have available for the flight, this way, if you have only 30 minutes in the KingAir 350, Flight Gen!© will select one flight for you… as simple as that!
-This program is for all my students. I hope you find it useful…and practice until you can navigate with no errors.
+
+This program is for all my students. 
+
+I hope you find it useful…and practice until you can navigate with no errors.
 
 ## What this program is going to do?
 This program will suggest a flight for you based on your selected options.
