@@ -19,12 +19,6 @@ Once the flight is suggested, it will give you very basic airport information li
 
 All suggested flights will be in Colombia.
 
-## Getting Started
-
-1.  Download the repo.
-2.  Run *main.py*
-
-
 ### Prerequisites
 
 To run the program properly you need Python 3.7+ and you just need to install pillow
@@ -35,8 +29,19 @@ pip install pillow
 ```
 You should be ready within seconds!
 
+
+## Getting Started
+
+1.  Download the repo.
+2.  Run *main.py*
+3.  Read the manual:   flightGen_guide.pdf  It can be accessed thru the GUI or just click on the document above.
+
+
+
+
 ### Things to fix
 The DB queries can be improved.  They work perfectly, but can be written in a better way.
+Some tooltips can be implemented. 
 
 ## Authors
 
