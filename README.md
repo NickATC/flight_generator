@@ -19,7 +19,7 @@ Once the flight is suggested, it will give you very basic airport information li
 
 All suggested flights will be in Colombia.
 
-### Prerequisites
+## Prerequisites
 
 To run the program properly you need Python 3.7+ and you just need to install pillow
 
