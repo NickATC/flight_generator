@@ -21,7 +21,7 @@ All suggested flights will be in Colombia.
 
 ## Prerequisites
 
-To run the program properly you need Python 3.7+ and you just need to install pillow
+To run the program properly you need Windows OS, Python 3.7+ and you just need to install pillow
 
 To install:
 ```
@@ -37,11 +37,10 @@ You should be ready within seconds!
 3.  Read the manual:   flightGen_guide.pdf  It can be accessed thru the GUI or just click on the document above.
 
 
-
-
 ### Things to fix
 The DB queries can be improved.  They work perfectly, but can be written in a better way.
 Some tooltips can be implemented. 
+Adapt the GUI to Mac and Linux OS.
 
 ## Authors
 
