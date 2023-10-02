@@ -1,6 +1,7 @@
-# flight_generator
-A program that generates flights that comply with specific characteristics based on pilot training requirements
+# flight_generator - FlightGen!©
+A program for pilot students who want to train IFR procedures.  FlightGen!© will generate flights that comply with specific characteristics based on pilot training requirements.  What to fly a DME arc on departure and arrival, but only have 45 minutes available to train??  FlightGen! has you covered!
 
+iOS version under development!
 
 *Version 1.3   May 2020*
 
